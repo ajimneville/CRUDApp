@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.d-flex vh-100 bg-primary justify-center align-items-center{
+    align-items: center;
+}
+.col {
+    text-align: right;
+    width: 500px;
+    }
+.pull-right {
+    margin: 0 0 0 auto;
+}
+.image{
+    width: 60px;
+    height: 60px;
+    background-size: 90px 90px;
+    margin: 10px;
+    border: 1px rgb(218, 218, 218) solid;
+    background: #C4C4C4 no-repeat 0 0;
+}
